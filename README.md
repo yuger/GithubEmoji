@@ -1,6 +1,7 @@
-Emoji表情
+Emoji表情,Github专用。
 =========
-将对应emoji表情的符号码复制后输入你的markdown文本即可显示emoji表情。
+based on [guodongxiaren/README](https://github.com/guodongxiaren/README).
+使用方法:将对应emoji表情的符号码复制后输入你的markdown文本即可显示emoji表情。
 如`:blush:`，显示为:blush:
 
 ## 人物
