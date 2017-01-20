@@ -320,4 +320,4 @@
 |` :small_blue_diamond:`| :small_blue_diamond:|` :small_orange_diamond:`| :small_orange_diamond:|` :small_red_triangle:`| :small_red_triangle:|
 |`:small_red_triangle_down:`|:small_red_triangle_down:|` :shipit:`| :shipit:||||
 
-基于 [guodongxiaren/README](https://github.com/guodongxiaren/README).
+基于 [guodongxiaren/README](https://github.com/guodongxiaren/README).<br>更多效果请访问 http://www.webpagefx.com/tools/emoji-cheat-sheet/ <br> /play greatjob 
