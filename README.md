@@ -1,6 +1,5 @@
-Emoji表情,Github专用。
-=========
-based on [guodongxiaren/README](https://github.com/guodongxiaren/README).
+## Emoji表情,Github专用。
+
 使用方法:将对应emoji表情的符号码复制后输入你的markdown文本即可显示emoji表情。
 如`:blush:`，显示为:blush:
 
@@ -320,3 +319,5 @@ based on [guodongxiaren/README](https://github.com/guodongxiaren/README).
 |` :large_blue_circle:`| :large_blue_circle:|` :large_blue_diamond:`| :large_blue_diamond:|` :large_orange_diamond:`| :large_orange_diamond:|
 |` :small_blue_diamond:`| :small_blue_diamond:|` :small_orange_diamond:`| :small_orange_diamond:|` :small_red_triangle:`| :small_red_triangle:|
 |`:small_red_triangle_down:`|:small_red_triangle_down:|` :shipit:`| :shipit:||||
+
+基于 [guodongxiaren/README](https://github.com/guodongxiaren/README).
